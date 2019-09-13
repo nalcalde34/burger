@@ -1,4 +1,4 @@
-Burger App
+**Burger App**
 
 This node application allows the user to order any burger they want, adds that burger to the MySQL database, then gives them the option to devour the burger (which also updates in the MySQL databse. This app also utilizes Express and Handlebars.
 
